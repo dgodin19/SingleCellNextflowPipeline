@@ -1,0 +1,4 @@
+sample_id,matrix_path,condition
+PBMC3K,data/pbmc3k_filtered_gene_bc_matrices.tar.gz,3k
+PBMC10K,data/sc5p_v2_hs_PBMC_10k_filtered_feature_bc_matrix.tar.gz,10k
+
