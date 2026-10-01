@@ -94,6 +94,10 @@ assets/sample_metadata.csv
 
 The metadata file contains the sample identifier, path to the 10x expression matrix, and experimental condition.
 
+## Outputs
+
+The pipeline will output the UMAP, marker genes, and the QC distribution. 
+
 ## Running the Pipeline
 
 Build the Docker image:
