@@ -81,10 +81,10 @@ Python dependencies are isolated in a Docker container and specified in the `Doc
 
 ## Input Data
 
-Example datasets are included in the `data` directory:
+Example datasets that were used in the `data` directory:
 
-* **10x Genomics Human PBMC 10k** — 10,000 PBMCs from a healthy donor
-* **10x Genomics PBMC 3k** — approximately 3,000 PBMCs from a healthy donor
+* **10x Genomics Human PBMC 10k** — 10,000 PBMCs from a healthy donor. [10x Genomics PBMC 10k](https://www.10xgenomics.com/datasets/human-pbmc-from-a-healthy-donor-10-k-cells-v-2-2-standard-5-0-0)
+* **10x Genomics PBMC 3k** — approximately 3,000 PBMCs from a healthy donor. [10x Genomics PBMC 3k dataset](https://www.10xgenomics.com/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0)
 
 The pipeline uses a CSV metadata file to specify the input samples and their corresponding matrix paths. An example metadata file is provided at:
 
